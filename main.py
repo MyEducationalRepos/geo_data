@@ -24,7 +24,7 @@ url = "https://google-maps-geocoding.p.rapidapi.com/geocode/json"
 
 #A case
 
-querystring = {"address":"164 Townsend St., San Francisco, CA","language":"en"}
+querystring = {"address":"Pasaje Barros Merino 231, Quilpué","language":"es"}
 
 headers = {
 	"X-RapidAPI-Key": api_token,
