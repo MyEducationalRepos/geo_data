@@ -1,0 +1,140 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "14 Norte",
+               "short_name" : "14 Nte.",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Viña del Mar",
+               "short_name" : "Viña",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viña del Mar",
+               "short_name" : "Viña del Mar",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "14 Nte., Viña del Mar, Valparaíso, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.0083544,
+                  "lng" : -71.5397536
+               },
+               "southwest" : {
+                  "lat" : -33.0117537,
+                  "lng" : -71.55236549999999
+               }
+            },
+            "location" : {
+               "lat" : -33.0095375,
+               "lng" : -71.5462105
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.0083544,
+                  "lng" : -71.5397536
+               },
+               "southwest" : {
+                  "lat" : -33.0117537,
+                  "lng" : -71.55236549999999
+               }
+            }
+         },
+         "place_id" : "ChIJI21l_sLdiZYRkAKM-G6lnEM",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}
+
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "1147",
+               "short_name" : "1147",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "10 Norte",
+               "short_name" : "10 Nte",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Viña del Mar",
+               "short_name" : "Viña",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso",
+               "short_name" : "Valparaíso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "10 Nte 1147, Viña del Mar, Valparaiso, Valparaíso, Chile",
+         "geometry" : {
+            "location" : {
+               "lat" : -33.0140586,
+               "lng" : -71.54422099999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.01270156970849,
+                  "lng" : -71.54287021970849
+               },
+               "southwest" : {
+                  "lat" : -33.01539953029149,
+                  "lng" : -71.5455681802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ07dG5KLgiZYRjK_7TVK_AHg",
+         "plus_code" : {
+            "compound_code" : "XFP4+98 Viña del Mar, Chile",
+            "global_code" : "47RCXFP4+98"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "store" ]
+      }
+   ],
+   "status" : "OK"
+}
+
