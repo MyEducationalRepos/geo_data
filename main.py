@@ -28,7 +28,9 @@ headers = {
 }
 
 
-direcciones = ["14 Norte 221, Viña del Mar","Chanchería Chile"]
+direcciones = ["14 Norte 221, Viña del Mar",
+	"Chanchería Chile",
+	"Plaza Sucre, Viña del Ma, Viña del Mar"]
     
 for _, direccion in enumerate(direcciones):    
     querystring = {"address":direccion,"language":"es"}
